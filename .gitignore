@@ -1,0 +1,9 @@
+node_modules
+pnpm-lock.yaml
+.env
+.env.*
+.pyenv
+.venv
+__pycache__
+.apps
+.DS_Store
